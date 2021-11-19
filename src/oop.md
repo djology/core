@@ -1,6 +1,6 @@
 ### OOP
 
-面向对象编程（object-oriented programming）是一种基于对象概念的编程范式
+**面向对象编程**（object-oriented programming）是一种基于对象概念的编程范式
 
 ### 历史
 
